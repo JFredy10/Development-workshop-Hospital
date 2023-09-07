@@ -1,3 +1,5 @@
+#usuario: medico1
+#contraseña: clave1
 class Paciente:
     def __init__(self, documento, nombre, sexo, fecha_nacimiento):
         self.documento = documento  # Número de documento del paciente
